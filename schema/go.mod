@@ -1,4 +1,4 @@
-module github.com/Prokopevs/kanban
+module github.com/Prokopevs/kanban/schema
 
 go 1.21.1
 
